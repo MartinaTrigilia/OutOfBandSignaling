@@ -2,7 +2,7 @@
 Introduzione
 
 
-Lo studente dovrà realizzare un sistema per l'out-of-band signaling. Si tratta di una tecnica di comunicazione
+Il progetto implementa un sistema per l'out-of-band signaling. Si tratta di una tecnica di comunicazione
 in cui due entità si scambiano informazioni senza trasmettersele direttamente, ma utilizzando segnalazione
 collaterale: per esempio, il numero di errori “artificiali”, o la lunghezza di un pacchetto pieno di dati inutili, o
 anche il momento esatto delle comunicazioni.
